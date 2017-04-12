@@ -1,0 +1,6 @@
+C:\Users\Brett\Desktop\Projects\Misc\PowerMethod\PowerMethod\bin\Debug\PowerMethod.exe.config
+C:\Users\Brett\Desktop\Projects\Misc\PowerMethod\PowerMethod\obj\Debug\PowerMethod.csprojResolveAssemblyReference.cache
+C:\Users\Brett\Desktop\Projects\Misc\PowerMethod\PowerMethod\bin\Debug\PowerMethod.exe
+C:\Users\Brett\Desktop\Projects\Misc\PowerMethod\PowerMethod\bin\Debug\PowerMethod.pdb
+C:\Users\Brett\Desktop\Projects\Misc\PowerMethod\PowerMethod\obj\Debug\PowerMethod.exe
+C:\Users\Brett\Desktop\Projects\Misc\PowerMethod\PowerMethod\obj\Debug\PowerMethod.pdb
